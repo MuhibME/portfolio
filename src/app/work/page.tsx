@@ -16,7 +16,7 @@ const projects= [
     num: '01',
     category: 'Wordpress',
     title: 'Project 1',
-    decription: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, dolore. Laboriosam libero consequuntur rem fuga quos.',
+    decription: 'A wordpress website showcasing their products',
     stack: [{name: 'Wordpress'},],
     image: '/assets/work/work1.png',
     live:''
@@ -25,7 +25,7 @@ const projects= [
     num: '02',
     category: 'Frontend',
     title: 'Project 2',
-    decription: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, dolore. Laboriosam libero consequuntur rem fuga quos.',
+    decription: 'Portfolio build with page transitions',
     stack: [{name: 'Next.js'}, {name:'Tailwind.css'}],
     image: '/assets/work/work2.png',
     live:''
@@ -34,9 +34,18 @@ const projects= [
     num: '03',
     category: 'Full Stack',
     title: 'Project 3',
-    decription: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, dolore. Laboriosam libero consequuntur rem fuga quos.',
-    stack: [{name: 'React.js'}, {name:'Tailwind.css'},{name: 'Node.js'},{name:'Express.js'}],
-    image: '/assets/work/work2.png',
+    decription: 'Ecommerce web application using stipe and sanity as backend',
+    stack: [{name: 'Next.js'}, {name:'Tailwind.css'},{name: 'Node.js'},{name:'Sanity'}],
+    image: '/assets/work/work3.png',
+    live:''
+  },
+  {
+    num: '04',
+    category: 'Frontend',
+    title: 'Project 4',
+    decription: 'A coffee shop Landing page.',
+    stack: [{name: 'Next.js'}, {name:'Tailwind.css'}],
+    image: '/assets/work/work4.png',
     live:''
   },
 
