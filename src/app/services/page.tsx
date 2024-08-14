@@ -9,25 +9,25 @@ const services = [
   {
     num: '01',
     title: 'Web Development',
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, nostrum natus accusamus!",
+    description: "Modern animated websites using Next.js",
     href: ""
   },
   {
     num: '02',
     title: 'WordPress Website',
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, nostrum natus accusamus!",
+    description: "High quality websites and landing pages using WordPress",
     href: ""
   },
   {
     num: '03',
     title: 'SEO',
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, nostrum natus accusamus!",
+    description: "Search engine optimizations using On Page and Off Page SEO",
     href: ""
   },
   {
     num: '04',
-    title: 'Social Media Marketing',
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, nostrum natus accusamus!",
+    title: 'Social Media Management',
+    description: "Managing all your Social Media needs",
     href: ""
   },
 ]

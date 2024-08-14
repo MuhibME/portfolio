@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { JetBrains_Mono } from "next/font/google";
 import "./globals.css";
-
+import { Toaster } from "@/components/ui/toaster"
 //components
 import Header from "@/components/Header";
 import PageTransition from "@/components/PageTransition";
@@ -32,7 +32,7 @@ export default function RootLayout({
           <PageTransition>
             {children}
           </PageTransition>
-          
+          <Toaster/>
         </body>
     </html>
   );

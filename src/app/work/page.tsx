@@ -19,7 +19,7 @@ const projects= [
     decription: 'A wordpress website showcasing their products',
     stack: [{name: 'Wordpress'},],
     image: '/assets/work/work1.png',
-    live:''
+    live:'https://mehboobebrahimagency.com'
   },
   {
     num: '02',
@@ -28,7 +28,7 @@ const projects= [
     decription: 'Portfolio build with page transitions',
     stack: [{name: 'Next.js'}, {name:'Tailwind.css'}],
     image: '/assets/work/work2.png',
-    live:''
+    live:'/'
   },
   {
     num: '03',
@@ -36,8 +36,8 @@ const projects= [
     title: 'Project 3',
     decription: 'Ecommerce web application using stipe and sanity as backend',
     stack: [{name: 'Next.js'}, {name:'Tailwind.css'},{name: 'Node.js'},{name:'Sanity'}],
-    image: '/assets/work/work3.png',
-    live:''
+    image: '/assets/work/work4.png',
+    live:'https://bikezz-one.vercel.app'
   },
   {
     num: '04',
@@ -45,8 +45,8 @@ const projects= [
     title: 'Project 4',
     decription: 'A coffee shop Landing page.',
     stack: [{name: 'Next.js'}, {name:'Tailwind.css'}],
-    image: '/assets/work/work4.png',
-    live:''
+    image: '/assets/work/work3.png',
+    live:'https://zenbrew-opal.vercel.app'
   },
 
 ]
